@@ -1,15 +1,16 @@
 :root{
-    --cor-fundo:rgb(194, 191, 191);
+    --cor-fundo:rgb(177, 11, 11);
     --cor-texto:#222222;
-    --cor-principal:#6e9444;
-    --cor-secundaria:#094611;
-    --cor-hover: #23810c;
+    --cor-principal:#b41414;
+    --cor-secundaria:#ff0a0a;
+    --cor-hover: #570000;
     --cor-superficie:#ffffff;
-    --cor-card:#3c7c39;
-    --cor-legenda:#555555;
+    --cor-card:#b4340d;
+    --cor-legenda:#410303;
     --cor-clara: #ffffff;
-    --cor-rodape:#6e9444;
+    --cor-rodape:#b60000;
 }
+
 
 body {
     background-color: var(--cor-fundo);
